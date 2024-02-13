@@ -1,4 +1,4 @@
-# SQL-Power-BI-Sales-Data-Analysis-Portfolio-Project
+# SQL-Sales-Data-Analysis-Project
 ## Introduction
 Business Problem Statement:
 In this Superstore Sales Analysis portfolio project, we delve into the sales data of a superstore to optimize operations and enhance profitability. The primary focus areas include:
